@@ -1,0 +1,7 @@
+.idea
+node_modules
+*.log
+coverage/**
+/flyway-7.5.0/
+openapi
+yarn.lock
